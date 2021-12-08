@@ -1,3 +1,3 @@
 print("Hello, Python")
 print("Upstream Repo")
-print("My naem 이동규, My b 1889030")
+print("My naem 이동규, My bID 1889030")
